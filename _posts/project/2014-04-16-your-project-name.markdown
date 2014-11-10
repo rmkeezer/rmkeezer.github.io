@@ -5,8 +5,8 @@ date:   2014-04-25 16:54:46
 author: Marcel Newman
 categories:
 - project
-img: portfolio_09.jpg
-thumb: thumb02.jpg
+img: work8.jpg
+thumb: work8.jpg
 carousel:
 - single01.jpg
 - single02.jpg

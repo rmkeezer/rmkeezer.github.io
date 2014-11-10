@@ -1,8 +1,8 @@
 ### GENERAL SETTINGS ###
 
 # Site settings
-title: SOLID.
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: MATTHEW KEEZER
+description: "I am a computer scientist"
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
 url: "http://yourdomain.com"
@@ -26,25 +26,19 @@ colors:  #in hex code if not noted else
 
 # Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
 social:
-  - title: dribbble
-    url:
-  - title: facebook
-    url:
+  - title: linkedin
+    url: http://linkedin.com/pub/matthew-keezer/7a/60b/454/
   - title: twitter
-    url: 
-  - title: instagram
-    url: 
-  - title: tumblr
-    url: 
+    url: https://twitter.com/smoothie42
     
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
   - lines: 
-    - Some Ave, 987,
-    - 23890, New York,
-    - United States.
-email: hello@solidtheme.com
-tel: +34 8493-4893
+    - Robert "Matthew" Keezer,
+    - rmkeezer@yahoo.com,
+    - 404-090-9417
+email: rmkeezer@yahoo.com
+tel: 404-909-9417
 
 
 ### GENERAL DATA FOR VARIOUS LOCATIONS ###
@@ -100,7 +94,7 @@ clients:
     img: client04.png
     
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+about: "I'm a 1st year at Georgia Institute of Technology but I have been working with Java for almost 4 years. Here you can view my recent work that encompasses many types of projects ranging from Android app development to Unity3D to Web Development."
 
 # Testimonial content. Shown on Home and About page. 
 testimonial:
