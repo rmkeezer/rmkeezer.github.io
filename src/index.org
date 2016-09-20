@@ -19,12 +19,16 @@ Computer Science
 GPA: 3.41
 * Leadership
 ** Software Lead Robojackets IGVC
+[[https://github.com/RoboJackets/igvc-software][Github Repository]]
+
 Fall 2014-current
 - Led large software team and maintained github repository for 300lb autonomous robot
 - Wrote framework in C++ to detect obstacles using LIDAR and cameras with computer vision techniques for detecting white lines, circles, and flags on a grassy field later combined into a point-cloud for A* path-finding
 - Used ROS (Robot Operating System) for robot module communication, 3D simulation, and dashboard plugins
 * Projects
 ** Undergraduate Research - Argo
+Private Gatech Repository
+
 Fall 2015-current
 - Created webapp that lets users find relevant apps/music/media with a web-app powered using flask to combine a front-end three.js WebGL graph and back-end python that uses SQL commands to filter through the database and then process the results in order to intuitively display media to the used based on relations between the media.
 - Designed and developed the database, created a basic GUI and visualization, and combined them using flask to produce a working three.js force-directed graph of nodes retrieved from the database.
@@ -33,15 +37,28 @@ Fall 2016-current
 - Worked with a group of 5 using AGILE techniques to produce a webapp that allows professors to create and format interactive questions given to students during class who can then view their results with interactive statistics online
 - Used MySQL, javascript, python, and flask to create a database and GUI for creating/storing interactive questions
 ** Mobius Tunes
+[[https://github.com/MountainRange/mobius-tunes][Github Repository]]
+
 Fall 2015 Hack GT
 - Created a python app based off of infinite jukebox where mp3 files in a playlist are analyzed at byte level using the FFT algorithm to find moments in the songs can be broken apart and stitched together to create an infinite song
 ** Trip Planner Webapp
+[[https://github.com/rmkeezer/Trip-Planner][Github Repository]]
+
 Summer 2016
 - Created a flask website using MySQL, python, and javascript in order to display mock data on a mock website
+** ML Clustering Analysis
+[[https://github.com/rmkeezer/Clustering-Analysis][Github Repository]]
+
+Summer 2015
+- Performed unsupervised clustering analysis on the past 5 years of the fortune 500 companies using yahoo stocks
 ** Twitter Sentiment Analysis
+[[https://github.com/rmkeezer/Twitter-Sentiment-Analysis][Github Repository]]
+
 Summer 2016
 - Analyzed and plotted two or more hashtags and rated which had more positive words or negative words.
 ** MULE Software Development Project
+[[https://github.com/MountainRange/MULE][Github Repository]]
+
 Fall 2015
 - Used AGILE development with a team of 5 throughout a semester to recreate an old Atari game in JavaFX
 * Experience
@@ -65,7 +82,7 @@ Alpharetta, GA
 * Skills
 ** C++
 *** Projects
-- Software Lead Robojackets IGVC (Fall 2014-current)
+- [[https://github.com/RoboJackets/igvc-software][Software Lead Robojackets IGVC]] (Fall 2014-current)
 ** Python
 *** Classes
 - Machine Learning
@@ -73,31 +90,29 @@ Alpharetta, GA
 - Intro to AI
 *** Projects
 - Undergraduate Research - Argo (Fall 2015-current)
-- Mobius Tunes (Fall 2015 Hack GT)
-- Trip Planner Webapp (Summer 2016)
+- [[https://github.com/MountainRange/mobius-tunes][Mobius Tunes]] (Fall 2015 Hack GT)
+- [[https://github.com/rmkeezer/Trip-Planner][Trip Planner Webapp]] (Summer 2016)
 - Junior Design Project - Active Learning (Fall 2016-current)
-- Twitter Sentiment Analysis (Summer 2016)
+- [[https://github.com/rmkeezer/Twitter-Sentiment-Analysis][Twitter Sentiment Analysis]] (Summer 2016)
 ** Java
 *** Classes
 - Intro to Java
 - Datastructures and Algorithms
 - Software Development
 *** Projects
-- MULE Software Development Project (Fall 2015)
+- [[https://github.com/MountainRange/MULE][MULE Software Development Project]] (Fall 2015)
 
 ** Databases (MySQL/SQLite)
 *** Classes
 - Databases
 *** Projects
 - Undergraduate Research - Argo (Fall 2015-current)
-- Trip Planner Webapp (Summer 2016)
-
-
+- [[https://github.com/rmkeezer/Trip-Planner][Trip Planner Webapp]] (Summer 2016)
 ** Machine Learnine
 *** Classes
 - Machine Learning
 *** Projects
-- Clustering Analysis using scikit-learn
+- [[https://github.com/rmkeezer/Clustering-Analysis][Clustering Analysis using scikit-learn]]
 ** Web Scraping
 *** Projects
 - Undergraduate Research - Argo (Fall 2015-current)
