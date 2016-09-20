@@ -1,49 +1,65 @@
 #+TITLE: Matthew Keezer
 * Websites
-- [http://www.github.com/rmkeezer](Github)
-- [https://www.linkedin.com/pub/matthew-keezer/7a/60b/454](LinkedIn)
+- [[http://www.github.com/rmkeezer][Github]]
+- [[https://www.linkedin.com/pub/matthew-keezer/7a/60b/454][LinkedIn]]
 * Objective
 To obtain a summer 2017 internship for software development that involves working on databases, intelligent
 algorithms, data visualization or machine learning aimed at processing large amounts of data or enhancing
 user experience.
 * Education
-** *Georgia Institute of Technology* Atlanta, GA, USA 
-*2014 - May 2018*
-*Bachelor of Science:* Computer Science *GPA: 3.41*
+** Georgia Institute of Technology
+Atlanta, GA, USA
+
+2014 - May 2018
+
+Bachelor of Science
+
+Computer Science
+
+GPA: 3.41
 * Leadership
-** Software Lead Robojackets IGVC (Fall 2014-current)
+** Software Lead Robojackets IGVC
+Fall 2014-current
 - Led large software team and maintained github repository for 300lb autonomous robot
-- Wrote framework in C++ to detect obstacles using LIDAR and cameras with computer vision techniques for
-detecting white lines, circles, and flags on a grassy field later combined into a point-cloud for A* path-finding
+- Wrote framework in C++ to detect obstacles using LIDAR and cameras with computer vision techniques for detecting white lines, circles, and flags on a grassy field later combined into a point-cloud for A* path-finding
 - Used ROS (Robot Operating System) for robot module communication, 3D simulation, and dashboard plugins
 * Projects
-** Undergraduate Research - Argo (Fall 2015-current)
-- Created webapp that lets users find relevant apps/music/media with a web-app powered using flask to combine 
-a front-end three.js WebGL graph and back-end python that uses SQL commands to filter through the database and
-then process the results in order to intuitively display media to the used based on relations between the media.
-- Designed and developed the database, created a basic GUI and visualization, and combined them using flask
-to produce a working three.js force-directed graph of nodes retrieved from the database.
-** Junior Design Project - Active Learning (Fall 2016-current)
+** Undergraduate Research - Argo
+Fall 2015-current
+- Created webapp that lets users find relevant apps/music/media with a web-app powered using flask to combine a front-end three.js WebGL graph and back-end python that uses SQL commands to filter through the database and then process the results in order to intuitively display media to the used based on relations between the media.
+- Designed and developed the database, created a basic GUI and visualization, and combined them using flask to produce a working three.js force-directed graph of nodes retrieved from the database.
+** Junior Design Project - Active Learning
+Fall 2016-current
 - Worked with a group of 5 using AGILE techniques to produce a webapp that allows professors to create and format interactive questions given to students during class who can then view their results with interactive statistics online
 - Used MySQL, javascript, python, and flask to create a database and GUI for creating/storing interactive questions
-** Mobius Tunes (Fall 2015 Hack GT)
+** Mobius Tunes
+Fall 2015 Hack GT
 - Created a python app based off of infinite jukebox where mp3 files in a playlist are analyzed at byte level using the FFT algorithm to find moments in the songs can be broken apart and stitched together to create an infinite song
-** Trip Planner Webapp (Summer 2016)
+** Trip Planner Webapp
+Summer 2016
 - Created a flask website using MySQL, python, and javascript in order to display mock data on a mock website
-** Twitter Sentiment Analysis (Summer 2016)
+** Twitter Sentiment Analysis
+Summer 2016
 - Analyzed and plotted two or more hashtags and rated which had more positive words or negative words.
-** MULE Software Development Project (Fall 2015)
+** MULE Software Development Project
+Fall 2015
 - Used AGILE development with a team of 5 throughout a semester to recreate an old Atari game in JavaFX
 * Experience
 ** Intern - Lab Engineer
 06/2015 to 08/2015
-Ericsson - Duluth, GA
+
+Ericsson
+
+Duluth, GA
 - Deployed and maintained telecom software onto client servers and databases
 - Worked in the lab on servers remotely and on-site which involved creating hosts and worker nodes for software such as a mobile application that uses audio fingerprinting to interface with TV streams.
 - Worked with bash scripting and d3.js to create a log scraper that visualizes incoming bit rates
 ** Intern - Web Developer
 09/2013 to 02/2014
-ResiliEnt Business Solutions - Alpharetta, GA
+
+ResiliEnt Business Solutions
+
+Alpharetta, GA
 - Created and completed a business website for a client using wordpress, MySQL, ftp
 - Edited back-end Javascript and CSS files to revamp the look and feel of the template design
 * Skills
