@@ -22,22 +22,6 @@
 <p class=\"creator\">%c</p>
 </div>")))
 
-
-(require 'request)
-(defun gh-stars (repo-string)
-  (if (string= "-" repo-string)
-    "-"
-    (progn (require 'request)
-      (defvar result nil)
-      (request (concat  "https://api.github.com/repos/" repo-string "/stargazers?per_page=1")
-        :parser 'json-read
-        :sync t
-        :success
-        (cl-function
-          (lambda (&key response &allow-other-keys)
-            (setq result response))))
-      result)))
-
 (defun parse-gh-str (url-string)
   "Parses a github url and returns a nice representation like: jgkamat/alda-mode"
   (let* ((var (split-string url-string "/"))
