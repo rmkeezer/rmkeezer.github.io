@@ -1,4 +1,6 @@
 #+TITLE: Matthew Keezer
+#+AUTHOR: Matthew Keezer
+#+EMAIL: rmkeezer@yahoo.com
 * Websites
 - [[http://www.github.com/rmkeezer][Github]]
 - [[https://www.linkedin.com/pub/matthew-keezer/7a/60b/454][LinkedIn]]
@@ -117,3 +119,5 @@ Alpharetta, GA
 *** Projects
 - Undergraduate Research - Argo (Fall 2015-current)
 
+* Contact
+- [[mailto:rmkeezer@yahoo.com][Email]]
